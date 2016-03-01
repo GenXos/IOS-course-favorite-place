@@ -1,1 +1,1 @@
-# IOS-course-favorite-place
+# favorite-place
